@@ -1,2 +1,2 @@
-# javascript_functions
+# javascript useful functions and code
 JavaScript useful functions.
